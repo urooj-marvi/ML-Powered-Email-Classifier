@@ -227,6 +227,8 @@ If you have any questions or need support, please:
 
 **Happy Email Classification! 📧✨**
 
+## Deployment
+Streamlit code: https://ml-powered-email-classifier-cv84hbgucmtuwhquknv3rz.streamlit.app/
 ---
 
 ⭐ **If you find this project helpful, please give it a star!**
