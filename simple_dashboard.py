@@ -77,3 +77,4 @@ if vectorizer and svm_model:
     st.markdown("- **Categories**: Work, Important, Spam")
 else:
     st.error("Please ensure model files are available and run 'python train_models.py' if needed.")
+
